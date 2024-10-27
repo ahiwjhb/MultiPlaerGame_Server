@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "43j64pKsj8QMfqcnAY29hlhS+vWyHlCLaGbwqsK/wBusmSxLT3LaN4FGefFWdJvuszrWM8iCYxKxpyB0Vi37eA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GZJ\\source\\repos\\MultiPlayerGameServer\\Network\\Network.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GZJ\\.nuget\\packages\\google.protobuf\\3.28.2\\google.protobuf.3.28.2.nupkg.sha512",
+    "C:\\Users\\GZJ\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\GZJ\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\GZJ\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\GZJ\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\GZJ\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\GZJ\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

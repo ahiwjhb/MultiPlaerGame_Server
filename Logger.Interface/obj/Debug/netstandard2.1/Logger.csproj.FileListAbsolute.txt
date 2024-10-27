@@ -1,0 +1,10 @@
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\bin\Debug\netstandard2.1\Logger.deps.json
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\bin\Debug\netstandard2.1\Logger.dll
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\bin\Debug\netstandard2.1\Logger.pdb
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\obj\Debug\netstandard2.1\Logger.csproj.AssemblyReference.cache
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\obj\Debug\netstandard2.1\Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\obj\Debug\netstandard2.1\Logger.AssemblyInfoInputs.cache
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\obj\Debug\netstandard2.1\Logger.AssemblyInfo.cs
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\obj\Debug\netstandard2.1\Logger.csproj.CoreCompileInputs.cache
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\obj\Debug\netstandard2.1\Logger.dll
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Logger.Interface\obj\Debug\netstandard2.1\Logger.pdb

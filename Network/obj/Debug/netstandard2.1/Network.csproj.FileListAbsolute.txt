@@ -1,0 +1,13 @@
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\bin\Debug\netstandard2.1\Network.deps.json
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\bin\Debug\netstandard2.1\Network.dll
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\bin\Debug\netstandard2.1\Network.pdb
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\obj\Debug\netstandard2.1\Network.csproj.AssemblyReference.cache
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\obj\Debug\netstandard2.1\Network.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\obj\Debug\netstandard2.1\Network.AssemblyInfoInputs.cache
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\obj\Debug\netstandard2.1\Network.AssemblyInfo.cs
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\obj\Debug\netstandard2.1\Network.csproj.CoreCompileInputs.cache
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\obj\Debug\netstandard2.1\Network.dll
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\obj\Debug\netstandard2.1\Network.pdb
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\bin\Debug\netstandard2.1\Logger.dll
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\bin\Debug\netstandard2.1\Logger.pdb
+C:\Users\GZJ\source\repos\MultiPlayerGameServer\Network\obj\Debug\netstandard2.1\Network.csproj.CopyComplete

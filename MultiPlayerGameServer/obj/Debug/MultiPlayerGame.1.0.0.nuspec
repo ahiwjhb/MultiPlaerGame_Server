@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MultiPlayerGame</id>
+    <version>1.0.0</version>
+    <authors>MultiPlayerGame</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Google.Protobuf" version="3.28.2" exclude="Build,Analyzers" />
+        <dependency id="Google.Protobuf.Tools" version="3.28.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\GZJ\source\repos\MultiPlayerGameServer\MultiPlayerGameServer\bin\Debug\net6.0\MultiPlayerGame.runtimeconfig.json" target="lib\net6.0\MultiPlayerGame.runtimeconfig.json" />
+    <file src="C:\Users\GZJ\source\repos\MultiPlayerGameServer\MultiPlayerGameServer\bin\Debug\net6.0\MultiPlayerGame.dll" target="lib\net6.0\MultiPlayerGame.dll" />
+  </files>
+</package>
